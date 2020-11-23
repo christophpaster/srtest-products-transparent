@@ -5,6 +5,12 @@
       "title": "T-Shirt Essentials Collection",
       "image": "https://raw.githubusercontent.com/christophpaster/srtest-products-transparent/main/product-template-1.png",
       "price": "€ 19,99"
+    },
+    {
+      "id": 2,
+      "title": "T-Shirt Premium New",
+      "image": "https://raw.githubusercontent.com/christophpaster/srtest-products-transparent/main/product-template-1.png",
+      "price": "€ 29,99"
     }
   ]
 }
