@@ -1,0 +1,10 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "T-Shirt Essentials Collection",
+      "image": "https://raw.githubusercontent.com/christophpaster/sr-testapi/master/product-template-1.png",
+      "price": "€ 19,99"
+    },
+  ]
+}
